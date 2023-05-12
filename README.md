@@ -5,11 +5,12 @@
 ## Conceitos Básicos
 ### Pega o cafézinho e bora aprender ☕
 Ciência de Dados: https://www.youtube.com/watch?v=ykSILAQQu6o&feature=youtu.be <br>
+BI (Business Intelligence): https://youtu.be/ljD4wFCCv-g <br>
 Big Data: https://www.youtube.com/watch?v=ykSILAQQu6o&feature=youtu.be <br>
 Ciência de Dados vs Big Data: https://www.youtube.com/watch?v=ykSILAQQu6o&feature=youtu.be <br>
 Dados Estruturados, Semi-estruturados, Não estruturados: https://www.youtube.com/watch?v=Slv_jFzF2hE<br>
 IOT: https://www.youtube.com/watch?v=Ikvs6B2591M <br> 
-Smart Cities: https://www.youtube.com/watch?v=A5yl7kng-EY // https://www.youtube.com/watch?v=wnzKLAVTcSE&feature=youtu.be<br>
+Smart Cities: https://www.youtube.com/watch?v=A5yl7kng-EY // https://www.youtube.com/watch?v=wnzKLAVTcSE&feature=youtu.be <br>
 
 ## Conheça a Biblioteca Numpy:
 
