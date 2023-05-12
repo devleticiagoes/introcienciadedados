@@ -5,7 +5,7 @@
 ## Conceitos Básicos
 ### Pega o cafézinho e bora aprender ☕
 Ciência de Dados: https://www.youtube.com/watch?v=ykSILAQQu6o&feature=youtu.be <br>
-BI (Business Intelligence): https://youtu.be/ljD4wFCCv-g <br>
+BI (Business Intelligence): https://youtu.be/ljD4wFCCv-g // https://youtu.be/sq1Mgo6Xk0s <br>
 Big Data: https://www.youtube.com/watch?v=ykSILAQQu6o&feature=youtu.be <br>
 Ciência de Dados vs Big Data: https://www.youtube.com/watch?v=ykSILAQQu6o&feature=youtu.be <br>
 Dados Estruturados, Semi-estruturados, Não estruturados: https://www.youtube.com/watch?v=Slv_jFzF2hE<br>
