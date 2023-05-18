@@ -1,7 +1,9 @@
 # Introdução à Ciência de Dados 🐱‍💻
-🤓 <b>Tudo o que você precisa saber para iniciar em Ciência de Dados.</b><br>
-📈 Acompanhe comigo essa jornada de Estudos e Projetos de Introdução à Ciência de Dados.<br>
-📈 Link para projetos prátidos no Google Colab
+🤓 <b>Tudo o que você precisa saber para iniciar em Ciência de Dados</b><br>
+📈 Acompanhe comigo essa jornada de Estudos e Projetos de Introdução à Ciência de Dados<br>
+📈 Link para projetos prátidos no Google Colab<br>
+📈 Arquivos <b>.py e .ipynb</b> disponíveis
+
 
 ## Conceitos Básicos
 ### ☕ Pega o cafézinho e bora aprender
